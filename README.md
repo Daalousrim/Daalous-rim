@@ -1,10 +1,10 @@
-# Bonjour, je suis Rim Daalous
+Bonjour, je suis Rim Daalous
 
-### Full-Stack Developer | React.js | Laravel
+Full-Stack Developer | React.js | Laravel
 
 Je suis une développeuse web passionnée par la création d’applications modernes, fonctionnelles et responsive.
 
- Technologies
+Technologies
 
 * JavaScript
 * React.js
@@ -15,23 +15,26 @@ Je suis une développeuse web passionnée par la création d’applications mode
 * MySQL
 * Git & GitHub
 
-### Projets
+Projets
 
- Gestion des événements culturels — Projet de fin d’étude
+Gestion des événements culturels — Projet de fin d’étude
 
-Application web Full-Stack permettant de gérer et organiser des événements culturels.
+Plateforme web Full-Stack dédiée à la gestion et à la réservation d’événements culturels.
 
-Frontend : React.js, JavaScript, HTML5, CSS3
-Backend : Laravel, PHP
+Frontend : React.js, Vite, Context API
+Backend : Laravel, PHP, REST API, Sanctum
 Base de données : MySQL
 
-### Projets Web
+Voir le projet sur GitHub
+
+Projets Web
 
 Développement d’applications web dans le cadre de ma formation et de mes expériences professionnelles.
 
-### Formation
+Formation
 
 Développement Digital — OFPPT
 
-### Contact
+Contact
+
 * Email : Daalousrim3@gmail.com
