@@ -25,7 +25,7 @@ Frontend : React.js, Vite, Context API
 Backend : Laravel, PHP, REST API, Sanctum
 Base de données : MySQL
 
-*Projet : Voir le projet sur GitHub
+Projet :[Voir le projet sur GitHub](https://github.com/Daalousrim/EventCulture)
 
 Projets Web
 
